@@ -1,0 +1,43 @@
+_repo: Comrades_34255
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, Howard E. (Howard Everett)
+    alias: Smith, Howard Everett
+    birthdate: 1885
+    deathdate: 1970
+    gutenberg_agent_id: '36904'
+    url: http://www.gutenberg.org/2009/agents/36904
+covers:
+- cover_type: archival
+  image_path: 34255-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Phelps, Elizabeth Stuart
+    aliases:
+    - Ward, Elizabeth Stuart Phelps
+    - Phelps, E. Stuart (Elizabeth Stuart)
+    birthdate: 1844
+    deathdate: 1911
+    gutenberg_agent_id: '1685'
+    url: http://www.gutenberg.org/2009/agents/1685
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Stuart_Phelps_Ward
+description: ''
+gutenberg_issued: '2010-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34255'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Older people -- Fiction'
+- !lcsh 'Veterans -- United States -- Fiction'
+- !lcsh 'Memorial Day -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Connecticut -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Married people -- Fiction'
+title: Comrades
+url: http://www.gutenberg.org/ebooks/34255
